@@ -1,4 +1,6 @@
 # robofriends
+To run the project:
+
 1. Clone this repo
-3. #### `npm install`
-3. #### `npm build`
+2. #### Run `npm install`
+3. #### Run `npm start`
